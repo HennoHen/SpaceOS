@@ -1,0 +1,8 @@
+﻿ ! !WARNING! ! 
+
+This circuit diagram in this folder
+was created with Gemini. Therefore,
+the pin assignment of some modules
+does not make sense, but you can
+easily view the pin assignment in the
+Readme.md.
